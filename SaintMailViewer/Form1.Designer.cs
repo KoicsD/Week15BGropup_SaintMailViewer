@@ -1,4 +1,4 @@
-﻿namespace Week15BGroup_SaintMailViewer
+﻿namespace SaintMailViewer
 {
     partial class Form1
     {

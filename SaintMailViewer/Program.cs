@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Week15BGroup_SaintMailViewer
+namespace SaintMailViewer
 {
     static class Program
     {

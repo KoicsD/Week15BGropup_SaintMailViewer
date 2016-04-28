@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Week15BGroup_SaintMailViewer
+namespace SaintMailViewer
 {
     public partial class Form1 : Form
     {
